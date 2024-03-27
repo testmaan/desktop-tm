@@ -7,13 +7,13 @@
 Install CLI tool
 
 ```bash
-  brew install testmaan/tm/tm
+  brew install testmanio/tm/tm
 ```
 
 Download and Install Desktop app
 
 ```bash
-  https://github.com/testmaan/desktop-tm/releases/latest
+  https://github.com/testmanio/desktop-tm/releases/latest
 ```
 
 GitLab configuration
